@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xLogger", "xLogger\xLogger.vcxproj", "{FE08609E-6BAE-413B-AD12-67E697F415F2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{1ECDDCB8-312E-479B-9F40-830D66C0F425}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Mixed Platforms = Debug|Mixed Platforms
@@ -27,18 +25,6 @@ Global
 		{FE08609E-6BAE-413B-AD12-67E697F415F2}.Release|Win32.Build.0 = Release|Win32
 		{FE08609E-6BAE-413B-AD12-67E697F415F2}.Release|x86.ActiveCfg = Release|Win32
 		{FE08609E-6BAE-413B-AD12-67E697F415F2}.Release|x86.Build.0 = Release|Win32
-		{1ECDDCB8-312E-479B-9F40-830D66C0F425}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
-		{1ECDDCB8-312E-479B-9F40-830D66C0F425}.Debug|Mixed Platforms.Build.0 = Debug|Win32
-		{1ECDDCB8-312E-479B-9F40-830D66C0F425}.Debug|Win32.ActiveCfg = Debug|Win32
-		{1ECDDCB8-312E-479B-9F40-830D66C0F425}.Debug|Win32.Build.0 = Debug|Win32
-		{1ECDDCB8-312E-479B-9F40-830D66C0F425}.Debug|x86.ActiveCfg = Debug|Win32
-		{1ECDDCB8-312E-479B-9F40-830D66C0F425}.Debug|x86.Build.0 = Debug|Win32
-		{1ECDDCB8-312E-479B-9F40-830D66C0F425}.Release|Mixed Platforms.ActiveCfg = Release|Win32
-		{1ECDDCB8-312E-479B-9F40-830D66C0F425}.Release|Mixed Platforms.Build.0 = Release|Win32
-		{1ECDDCB8-312E-479B-9F40-830D66C0F425}.Release|Win32.ActiveCfg = Release|Win32
-		{1ECDDCB8-312E-479B-9F40-830D66C0F425}.Release|Win32.Build.0 = Release|Win32
-		{1ECDDCB8-312E-479B-9F40-830D66C0F425}.Release|x86.ActiveCfg = Release|Win32
-		{1ECDDCB8-312E-479B-9F40-830D66C0F425}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
