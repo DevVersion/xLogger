@@ -7,8 +7,8 @@ xLogger an Arma 3 C++ Extension - DLL / SO
 - High Performance
 
 #### Installation
-- Download the current release from ```https://github.com/PaulGap/xLogger/releases```
-- Move the ```@extDB``` Folder into your Arma 3 Root Folder
+- Download the current release from https://github.com/PaulGap/xLogger/releases
+- Move the ```@xLogger``` Folder into your Arma 3 Root Folder
 - Start Arma 3 and enjoy the new file logger.
 
 #### Call Extension
